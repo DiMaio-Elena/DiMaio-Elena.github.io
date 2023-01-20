@@ -1,0 +1,41 @@
+li{
+    color:rgb(31, 168, 202);
+}
+
+p{
+    color:rgba(19, 233, 215, 0.74)
+}
+
+body {
+    background-color: rgb(23, 23, 26);
+    color: rgb(238, 238, 227);
+}
+
+.Welcome{
+    color:rgb(171, 226, 43);
+    font-family:cursive;
+}
+.whatever{
+    background-color: rgba(231, 60, 208, 0.856);
+    width: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    border-radius: 50px;
+}
+
+.center-me{
+    display:flex;
+    justify-content: center;
+}
+
+.rounded {
+    border-radius:50px
+}
+
+.flexx{
+    display:flex;
+    justify-content: space-around;
+}
